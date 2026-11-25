@@ -34,3 +34,6 @@ Database (`data/biodata.sqlite`) beserta tabel `biodata` dan 2 data awal akan **
 Buka `config.php` lalu ubah konstanta berikut:
 - `NAV_NAMA` dan `NAV_NIM` (untuk teks di navbar)
 - `TEAM_KETUA` dan `TEAM_ANGGOTA` (untuk teks copyright di footer)
+
+
+Fikri Rio Andira
